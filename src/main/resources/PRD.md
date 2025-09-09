@@ -1,7 +1,7 @@
 # <span style="color:#FEE854;">Food Delivery App PRD</span>
 
-**Document Owner:** [Your Name]  
-**Date:** [MM/DD/YYYY]  
+**Document Owner:** [Omari K Smith]  
+**Date:** [09/08/2025]  
 **Version:** 1.0
 
 ---
